@@ -1,3 +1,2 @@
-# MERN-Stack Infrastructure
-
-Clone this repo to provide the starter code for a comprehensive MERN-stack project including token-based authentication
+# Mern-Quick Notes
+This is for a homework assignment in the General Assembly SEI BootCamp.
